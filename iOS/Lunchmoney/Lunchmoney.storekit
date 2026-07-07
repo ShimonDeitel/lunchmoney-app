@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Lunchmoney Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Monthly savings-vs-spent comparison charts",
+              "displayName": "Lunchmoney Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "lunchmoney_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Lunchmoney Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
