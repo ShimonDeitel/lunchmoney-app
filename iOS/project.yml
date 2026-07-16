@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: LunchmoneyTests
-      - path: Lunchmoney.storekit
     dependencies:
       - target: Lunchmoney
     settings:
